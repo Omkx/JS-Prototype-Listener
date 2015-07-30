@@ -1,21 +1,3 @@
-// // Prototype
-
-// function Estudiante(nombre , codigo){
-// 	this.nombre = nombre,
-// 	this.codigo = codigo,
-// 	this.mostrar = function(){
-// 		return nombre+''+codigo;	
-// 	};	
-// };
-
-// var omar = new Estudiante('Omar','2012');
-// omar.mostrar();
-
-// // (function Informacion(co){
-	
-// // })();
-
-
 function Info(inicio,tasa,cantidad){
 	this.inicio = parseFloat(inicio);
 	this.tasa = parseFloat(tasa);
